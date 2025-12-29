@@ -1,3 +1,4 @@
+SMS Spam Classifier 📱✉️
 A Machine Learning based web application to classify SMS messages as Spam or Not Spam (Ham).
 Built using Python, Flask, Scikit-learn, and NLP techniques (TF-IDF + Naive Bayes).
 
